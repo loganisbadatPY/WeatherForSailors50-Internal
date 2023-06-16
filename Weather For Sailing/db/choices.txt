@@ -1,0 +1,3 @@
+Windgusts, 1
+Current, 1
+Temperature, 1
